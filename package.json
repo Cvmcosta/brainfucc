@@ -1,6 +1,6 @@
 {
   "name": "brainfucc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small brainfuck interpreter for node.",
   "main": "index.js",
   "scripts": {

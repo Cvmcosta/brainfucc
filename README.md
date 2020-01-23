@@ -6,7 +6,6 @@
 
 # Brainfucc
 
----
 
 > A small brainfuck interpreter for nodejs.
 

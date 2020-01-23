@@ -1,0 +1,24 @@
+{
+  "name": "brainfucc",
+  "version": "1.0.0",
+  "description": "A small brainfuck interpreter for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ltijs",
+    "lti",
+    "brainfuck",
+    "brainfuc",
+    "bf",
+    "cvmcosta",
+    "esoteric"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cvmcosta/brainfucc.git"
+  },
+  "author": "cvmcosta",
+  "license": "Apache-2.0"
+}

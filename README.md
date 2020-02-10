@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<br>
-	<img width="300" src="logo.png"></img></a>
+	<a href='https://www.npmjs.com/package/brainfucc' target='_blank'><img width="300" src="logo.png"></img></a>
 </div>
 
 # Brainfucc
@@ -45,7 +45,7 @@ The above code will output `hello world` in the console.
 
 ### Memory Structure
 
-- Brainfucc implements the memory as an array of 8-bit integers raging from 0 to 255.
+- Brainfucc implements the memory as an array of 8-bit integers ranging from 0 to 255.
 
 - This memory wraps, so **if you decrement a 0 it becomes a 255 and if you increment a 255 it becomes a 0**.
 

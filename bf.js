@@ -1,4 +1,4 @@
-// Brainfuck.js - Cvmcosta 2020
+// Brainfucc - Cvmcosta 2020
 
 // Imports stdin reader
 const readline = require('readline')

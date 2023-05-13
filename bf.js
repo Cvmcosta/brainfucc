@@ -83,6 +83,7 @@ exports.interpret = async (code, opts) => {
         }
       }
       debugCode += '}'
+      console.clear()
       console.log('Code:')
       console.log(header)
       console.log(debugCode, '\n')
